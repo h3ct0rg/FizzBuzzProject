@@ -1,0 +1,5 @@
+c:\users\gasto\documents\visual studio 2015\Projects\fizzBuzzProyect\numberAnalizer\bin\Debug\numberAnalizer.dll
+c:\users\gasto\documents\visual studio 2015\Projects\fizzBuzzProyect\numberAnalizer\bin\Debug\numberAnalizer.pdb
+c:\users\gasto\documents\visual studio 2015\Projects\fizzBuzzProyect\numberAnalizer\obj\Debug\numberAnalizer.csprojResolveAssemblyReference.cache
+c:\users\gasto\documents\visual studio 2015\Projects\fizzBuzzProyect\numberAnalizer\obj\Debug\numberAnalizer.dll
+c:\users\gasto\documents\visual studio 2015\Projects\fizzBuzzProyect\numberAnalizer\obj\Debug\numberAnalizer.pdb

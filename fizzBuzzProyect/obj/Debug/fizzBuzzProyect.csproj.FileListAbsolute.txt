@@ -1,0 +1,8 @@
+c:\users\gasto\documents\visual studio 2015\Projects\fizzBuzzProyect\fizzBuzzProyect\bin\Debug\fizzBuzzProyect.exe.config
+c:\users\gasto\documents\visual studio 2015\Projects\fizzBuzzProyect\fizzBuzzProyect\bin\Debug\fizzBuzzProyect.exe
+c:\users\gasto\documents\visual studio 2015\Projects\fizzBuzzProyect\fizzBuzzProyect\bin\Debug\fizzBuzzProyect.pdb
+c:\users\gasto\documents\visual studio 2015\Projects\fizzBuzzProyect\fizzBuzzProyect\bin\Debug\numberAnalizer.dll
+c:\users\gasto\documents\visual studio 2015\Projects\fizzBuzzProyect\fizzBuzzProyect\bin\Debug\numberAnalizer.pdb
+c:\users\gasto\documents\visual studio 2015\Projects\fizzBuzzProyect\fizzBuzzProyect\obj\Debug\fizzBuzzProyect.csprojResolveAssemblyReference.cache
+c:\users\gasto\documents\visual studio 2015\Projects\fizzBuzzProyect\fizzBuzzProyect\obj\Debug\fizzBuzzProyect.exe
+c:\users\gasto\documents\visual studio 2015\Projects\fizzBuzzProyect\fizzBuzzProyect\obj\Debug\fizzBuzzProyect.pdb
